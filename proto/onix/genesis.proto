@@ -1,0 +1,11 @@
+syntax = "proto3";
+package OnixChain.onix.onix;
+
+// this line is used by starport scaffolding # genesis/proto/import
+
+option go_package = "github.com/OnixChain/onix/x/onix/types";
+
+// GenesisState defines the onix module's genesis state.
+message GenesisState {
+    // this line is used by starport scaffolding # genesis/proto/state
+}
