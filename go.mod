@@ -1,6 +1,6 @@
 module github.com/OnixChain/onix
 
-go 1.16
+go 1.17
 
 require (
 	github.com/cosmos/cosmos-sdk v0.44.0
