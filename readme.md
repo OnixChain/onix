@@ -1,5 +1,5 @@
 # onix
-**onix** is a scalable, high-throughput Proof-of-Stake blockchain that is fully compatible.It's built using the [Cos>
+**onix** is a scalable, high-throughput Proof-of-Stake blockchain that is fully compatible. It's built using the [Cosmos SDK](https://github.com/cosmos/cosmos-sdk/) which runs on top of [Tendermint Core](https://github.com/tendermint/tendermint) consensus engine.
 
 ## Release
 To release a new version of your blockchain, create and push a new tag with `v` prefix. A new draft release with the>
@@ -17,7 +17,6 @@ To install the latest version of your blockchain node's binary, execute the foll
 ```
 curl https://get.starport.network/OnixChain/onix@latest! | sudo bash
 ```
-`OnixChain/onix` should match the `username` and `repo_name` of the Github repository to which the source code was p>
 
 ## Learn more
 
