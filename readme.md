@@ -2,7 +2,6 @@
   <h1> OnixChain </h1>
 </div>
 
-# onix
 **onix** is a scalable, high-throughput Proof-of-Stake blockchain that is fully compatible. It's built using the [Cosmos SDK](https://github.com/cosmos/cosmos-sdk/) which runs on top of [Tendermint Core](https://github.com/tendermint/tendermint) consensus engine.
 
 ## Release
